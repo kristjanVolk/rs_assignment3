@@ -1,0 +1,14 @@
+Execution Times
+==============================
+classic vlen=7 : real=8.50 user=0.01 sys=0.00
+vectorized vlen=7 : real=6.18 user=0.01 sys=0.00
+classic vlen=8 : real=6.84 user=0.01 sys=0.00
+vectorized vlen=8 : real=6.00 user=0.00 sys=0.00
+classic vlen=9 : real=6.66 user=0.01 sys=0.00
+vectorized vlen=9 : real=7.49 user=0.01 sys=0.00
+classic vlen=10 : real=8.53 user=0.01 sys=0.00
+vectorized vlen=10 : real=5.81 user=0.01 sys=0.00
+classic vlen=11 : real=6.72 user=0.01 sys=0.00
+vectorized vlen=11 : real=6.00 user=0.01 sys=0.00
+classic vlen=12 : real=6.66 user=0.01 sys=0.00
+vectorized vlen=12 : real=9.53 user=0.01 sys=0.00
